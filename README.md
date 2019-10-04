@@ -1,9 +1,9 @@
 # Cryptage_Caeser
 
-![Projet de chiffrement par décalage.]
-(https://live.staticflickr.com/4428/36653138131_8bbacf7818_b.jpg)
+<p align="center">
+  <img src="https://live.staticflickr.com/4428/36653138131_8bbacf7818_b.jpg)" width="350" title="hover text">
+</p>
 
-https://live.staticflickr.com/4428/36653138131_8bbacf7818_b.jpg
 # Plusieurs option sont possible:
 
   # 1.) --Crypter un message en spécifiant l'occurence de décalage.
